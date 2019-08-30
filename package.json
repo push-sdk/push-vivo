@@ -1,0 +1,32 @@
+{
+  "name": "push-vivo",
+  "version": "0.1.0",
+  "description": "push-vivo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "0.18.0",
+    "moment": "2.24.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/push-sdk/push-vivo.git"
+  },
+  "keywords":[
+    "vivo",
+    "push-vivo",
+    "push"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "bugs":{
+    "url": "https://github.com/push-sdk/push-vivo.gitissues",
+    "email": "xieyihaod@gmail.com"
+  },
+  "author": "yh",
+  "license": "MIT"
+}
